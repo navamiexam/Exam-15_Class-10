@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<presentation availableOffline="1" guid="895EE10A-A4A3-440B-B12B-3B699A273200" version="0">
+	<info>
+		<title>EXAM-15_CLASS-10</title>
+		<description/>
+	</info>
+	<files index="id23" thumbnail="id19" totalSize="2183209">
+		<file id="id0">data/apple-touch-icon.png</file>
+		<file id="id1">data/browsersupport.js</file>
+		<file id="id2">data/favicon.ico</file>
+		<file id="id3">data/fonts/fnt0.woff</file>
+		<file id="id4">data/fonts/fnt1.woff</file>
+		<file id="id5">data/fonts/fnt2.woff</file>
+		<file id="id6">data/fonts/fnt3.woff</file>
+		<file id="id7">data/html5-unsupported.html</file>
+		<file id="id8">data/html5.png</file>
+		<file id="id9">data/images/img-24a35d44c980d7f0dc0862f20d75d68295b9bded.png</file>
+		<file id="id10">data/images/img-2bec0db0dd61a534a653c8d2c7fc6bd1491fcefc.png</file>
+		<file id="id11">data/images/img-69b94f72b7f769cfa9bec580732d88074c5bff27.png</file>
+		<file id="id12">data/images/img-6ac626943cf03b8830fc8550f7e67f34737eacb3.png</file>
+		<file id="id13">data/images/img-6e4db877d78944a0fd14c1e6189e8856c5b61967.png</file>
+		<file id="id14">data/images/img-867351bf6851f578fe52e87ccaf81b23fcd3b4bd.png</file>
+		<file id="id15">data/images/img-e098e1ca6b6922a8488b0b39792b89f38bc616b7.png</file>
+		<file id="id16">data/images/img-f3072d28073235f3a929f304e9254d01a466b0ff.png</file>
+		<file id="id17">data/ismplayer/app_store2x.png</file>
+		<file id="id18">data/ismplayer/play.svg</file>
+		<file id="id19">data/ismplayer/preview.png</file>
+		<file id="id20">data/ismplayer/style.css</file>
+		<file id="id21">data/ismplayer/style_mini.css</file>
+		<file id="id22">data/player.js</file>
+		<file id="id23">index.html</file>
+		<file id="id24">ismplayer.html</file>
+		<file id="id25">preview.png</file>
+	</files>
+</presentation>
+
